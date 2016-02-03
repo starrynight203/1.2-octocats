@@ -1,0 +1,50 @@
+img {
+  max-width: 100%;
+}
+
+.octocat  {
+  float: left;
+  width: 33.3%;
+  list-style: none;
+}
+li.octocat  {
+  float: left;
+  max-width: 30%;
+  margin-left:20px;
+}
+.octocat img {
+  display: inline-block;
+  float: left;
+  border: solid grey 1px;
+  border-radius: 3px;
+}
+.image-footer  {
+  width: 100%;
+  float: right;
+}
+span.image-number {
+  width: 60px;
+  color: gray;
+}
+.image-number{
+  width: 60px;
+}
+.image-footer img {
+  height: 25px;
+  width: auto;
+  float: right;
+}
+div.image-caption {
+  font-size: 15px;
+  color: gray;
+  display: inline;
+}
+div.image-caption a {
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: bold;
+  color: black;
+}
+li {
+  display: inline;
+}
